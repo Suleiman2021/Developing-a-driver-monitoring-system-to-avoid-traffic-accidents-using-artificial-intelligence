@@ -191,18 +191,10 @@ The full academic project document is included:
 
 ## 📝 License
 
-MIT License (modifiable)
+MIT License 
 
 ---
 
-## 👥 Authors
-
-* Salman Samaan
-* Suleiman Radwan
-* Kenan Lababidi
-* Christine Zainia (Supervisor)
-
----
 
 ## ⭐ Contributions
 
