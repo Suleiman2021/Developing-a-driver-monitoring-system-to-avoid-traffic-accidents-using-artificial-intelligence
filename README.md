@@ -1,6 +1,3 @@
-
----
-
 # 🚘 Developing-a-driver-monitoring-system-to-avoid-traffic-accidents-using-artificial-intelligence
 
 
@@ -168,17 +165,14 @@ agents (BehaviorAgent / BasicAgent)
 
 ## 📸 Examples & Visual Output
 
-> You can later add GIFs, detected frames, or CARLA screenshots here.
+> 
+
+https://github.com/user-attachments/assets/1cb4a481-efc0-433f-9e8c-1a3cc0013a76
+
+
 
 ---
 
-## 📚 Academic Report
-
-The full academic project document is included:
-**Developing a driver monitoring system to avoid traffic accidents**
-
-
----
 
 ## 🚀 Future Improvements
 
@@ -186,12 +180,6 @@ The full academic project document is included:
 * Add driver identity recognition (anti-theft)
 * Deploy system on real hardware (Jetson / Raspberry Pi)
 * Integrate with advanced ADAS systems
-
----
-
-## 📝 License
-
-MIT License 
 
 ---
 
@@ -203,5 +191,4 @@ Feel free to open issues or suggest improvements.
 
 ---
 
-إذا رغبت:
 
